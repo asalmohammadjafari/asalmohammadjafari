@@ -1,8 +1,8 @@
 # Hi, I’m @asalmohammadjafari 👋  
 ### A passionate Computer Science student  
 
-- 🌱 I’m currently learning deep learning.
-- 💬 Ask me about AI and machine learning.
+- 🌱 I’m currently learning reinforcement learning.
+- 💬 Ask me about machine learning and deep learning.
 - 📫 How to reach me: asalmohammadjafarim@gmail.com
 - 😄 Fun fact: I'm interested in percussion instruments.  
 
