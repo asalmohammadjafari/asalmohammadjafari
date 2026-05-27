@@ -1,13 +1,15 @@
 # Hi, I’m @asalmohammadjafari 👋
-### A passionate Computer Science student specializing in AI.
+### AI Researcher & Computer Science Graduate.
 
-- 🔭 I’m currently working on **neural network optimization**.
-- 🌱 I’m currently learning about **LLMs** and their real-world applications.
+- 🔭 Currently working on **Computer Vision, Multimodal Learning, and Trustworthy AI**.
 - 💬 Ask me about AI, ML, and DL.
 - 📫 How to reach me: asalmohammadjafarim@gmail.com
-- 😄 Fun fact: I'm interested in percussion instruments.
-
----
+- 😄 Fun fact: I play the Daf, a traditional Persian percussion instrument.
 
 ## Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />](https://linkedin.com/in/asal-mohammadjafari/)
+
+<p align="left">
+<a href="https://linkedin.com/in/asalmohammadjafari" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+<a href="https://x.com/asalmjm" target="_blank"><img src="https://cdn.simpleicons.org/x" height="40" /></a>
+<a href="https://bsky.app/profile/asalmjm.bsky.social" target="_blank"><img src="https://cdn.simpleicons.org/bluesky" height="40" /></a>
+</p>
